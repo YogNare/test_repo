@@ -9,6 +9,8 @@ int main() {
   scanf("%d", &a);
 
   printf("%d", a);
+  
+  printf("fucking peace of shit\n");
 
   return 0;
 }
