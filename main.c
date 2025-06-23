@@ -2,7 +2,9 @@
 
 
 int main() {
-  
+
+  printf("Hope, it's work\n");
+
   int a;
   scanf("%d", &a);
 
